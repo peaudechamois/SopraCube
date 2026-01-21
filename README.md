@@ -6,6 +6,13 @@ This project demonstrates a basic SDL3 window in C, designed for Windows with Mi
 - [MinGW](http://www.mingw.org/) (GCC for Windows)
 - [SDL3 Development Libraries for MinGW](https://github.com/libsdl-org/SDL/releases/tag/release-3.4.0)
 
+## Optional: Install TortoiseGit
+TortoiseGit is a Windows Shell Interface to Git, making it easy to manage your repositories with a graphical interface.
+
+1. Download the TortoiseGit installer from the official website: https://tortoisegit.org/download/
+2. Run the installer and follow the setup instructions.
+3. After installation, you can right-click in any folder to access Git commands via the Windows context menu.
+
 ## Setup Steps
 
 ### 1. Install MinGW (via MSYS2)
